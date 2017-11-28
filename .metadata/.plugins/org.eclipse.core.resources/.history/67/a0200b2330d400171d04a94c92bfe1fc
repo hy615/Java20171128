@@ -5,10 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		
-		
-		int[] hello = new int[10];
-		hello[0] = 101;
-		hello[1] = 102;
+		int hello = 10;
 		int[] world = {10,20,30};
 		
 		for(int i=0; i<world.length; i++) {
